@@ -16,8 +16,7 @@
       , "url": "https://github.com/LearnBoost/socket.io.git"
     }
   , "dependencies": {
-        "socket.io-client": "0.9.6"
-      , "policyfile": "0.0.4"
+        "policyfile": "0.0.4"
       , "redis": "0.7.2"
     }
   , "devDependencies": {
